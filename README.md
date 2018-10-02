@@ -7,8 +7,8 @@
 ## Sumário
 
 1. Introdução ao DevOps
- 1. Formas tradicionais de criar e implantar software
- 1. Porquê se preocupar com segurança em software
+  1. Formas tradicionais de criar e implantar software
+  2. Porquê se preocupar com segurança em software
 1. Integração e Entrega Contínua Segura
 1. O que é DevSecOps
 1. Como criar software seguro desde o início
