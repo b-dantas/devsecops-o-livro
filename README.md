@@ -3,7 +3,7 @@ Este livro apresenta os fundamentos do DevOps, seus princípios, práticas, ferr
 
 ## Sumário
 1. [Introdução ao DevOps](manuscript/01-introducao-ao-devops/home.md)
-1. [Integração e Entrega Contínua Segura](manuscript/02-integracao-e-entrega-continua-segura/_index.md)
+1. [Integração e Entrega Contínua Segura](manuscript/02-integracao-e-entrega-continua-segura/home.md)
 1. [O que é DevSecOps](manuscript/03-o-que-e-devsecops/_index.md)
 1. [Como criar software seguro desde o início](manuscript/04-como-criar-software-seguro-desde-o-inicio/_index.md)
 1. [Infraestrutura como Código segura](manuscript/05-infraestrutura-como-codigo-segura/_index.md)

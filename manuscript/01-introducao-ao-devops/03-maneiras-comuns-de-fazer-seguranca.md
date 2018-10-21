@@ -1,14 +1,14 @@
 # Maneiras comuns de fazer segurança no SDLC
 Neste capítulo iremos conhecer as formas tradicionais de adotar segurança no ciclo de desenvolvimento.
 
-## Abordagens de Teste de Segurança
+## Abordagens de teste de segurança
 Há na indústria de segurança de software diversos modelos de teste:
 
 **EHT _(Ethical Hacking Test)_ ou _pentest_ (teste de penetração)** é uma abordagem de teste de segurança onde um especialista por meio de técnicas manuais e com apoio de ferramentas, tenta subverter o funcionamento de um software a fim de encontrar vulnerabilidades. O profissional que realiza essa atividade é conhecido como pentester.
 
 **DAST _(Dynamic Application Security Testing)_** é um teste automatizado de segurança dinâmico. Isso significa que aplicação é testada em tempo de execução. O DAST também é conhecido como caixa preta (blackbox), pois quem ataca não tem conhecimento prévio de como funciona o software. Nesse tipo de teste em aplicações web, as vulnerabilidades mais comuns de se encontrar são SQLi (SQL Injection) e XSS (Cross Site Scripting).
 
-**SAST _(Static Application Security Testing)_** é uma forma automática de teste onde se verifica o código fonte da aplicação. Dependendo da ferramenta pode ser ou não necessário compilá-lo para uma linguagem intermediária (bytecode). Esse teste pode ser chamado de caixa branca (whitebox), já que quem testa tem acesso a lógica de programação da aplicação. É comum nos resultados desse teste ser encontrado falhas como senha fixa no código, estouro de buffer e inspeção de variáveis sensíveis.
+**SAST _(Static Application Security Testing)_** é uma forma automática de teste onde se verifica o código-fonte da aplicação. Dependendo da ferramenta pode ser ou não necessário compilá-lo para uma linguagem intermediária (bytecode). Esse teste pode ser chamado de caixa branca (whitebox), já que quem testa tem acesso a lógica de programação da aplicação. É comum nos resultados desse teste ser encontrado falhas como senha fixa no código, estouro de buffer e inspeção de variáveis sensíveis.
 
 **IAST _(Interactive Application Security Testing)_** é uma combinação dos testes DAST e SAST, que visa diminuir a incidência de falsos-positivos.
 

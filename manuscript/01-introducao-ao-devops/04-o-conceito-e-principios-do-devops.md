@@ -2,7 +2,6 @@
 Neste capítulo vamos conhecer o que é DevOps e os princípios por trás dele.
 
 ## O conceito do DevOps
-
 > _Um perto de mão forte entre os times de Desenvolvimento e Operações de TI_
 
 DevOps é um conjunto de práticas destinadas a automatizar os processos entre as equipes de Desenvolvimento e Operações de TI, permitindo criar, testar e liberar software de maneira rápida e confiável. Este conceito baseia-se em criar uma cultura de colaboração entre as equipes que historicamente operam com objetivos diferentes, forçando uma mudança de mentalidade.
