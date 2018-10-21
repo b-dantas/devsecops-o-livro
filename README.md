@@ -1,9 +1,7 @@
 # DevSecOps - Adotando uma cultura de segurança ágil
-
-*Subtítulo*
+Este livro apresenta os fundamentos do DevOps, seus princípios, práticas, ferramentas e como isso pode ser um meio para melhorar a integridade, disponibilidade e confidencialidade dos sistemas. Conheceremos como as equipes que adotam DevSecOps podem construir e entregar software seguro de forma ágil.
 
 ## Sumário
-
 1. [Introdução ao DevOps](manuscript/01-introducao-ao-devops/home.md)
 1. [Integração e Entrega Contínua Segura](manuscript/02-integracao-e-entrega-continua-segura/_index.md)
 1. [O que é DevSecOps](manuscript/03-o-que-e-devsecops/_index.md)
