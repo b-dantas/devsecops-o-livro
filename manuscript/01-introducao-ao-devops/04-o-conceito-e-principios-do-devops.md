@@ -9,11 +9,11 @@ DevOps é um conjunto de práticas destinadas a automatizar os processos entre a
 
 O movimento DevOps começou a ganhar forma quando as áreas de operação de TI e desenvolvimento passaram a enxergar o que acreditavam ser um nível fatal de disfuncionalidade entre si. A adoção de metodologias tradicionais de desenvolvimento e a implantação de sistemas por meio do modelo de gestão de mudanças ITIL, exigia daqueles que escreviam o código estarem separados em termos organizacionais e funcionais daqueles que implantavam e davam suporte ao código. O resultado de times isolados consistia em fazê-los se preocupar cada um apenas com seu escopo, ter longas horas para resolução de problemas, deixando usuários insatisfeitos.
 
-Pessoas como Patrick Dubois, Gene Kim e John Willis começaram a organizar conversas para unir as duas comunidades, por meio de um evento intitulado DevOpsDays. A partir de um tweet feito por Debois, em 2009, surgiu a hashtag #devops; união das palavras Desenvolvimento (_Development_) e Operações (_Operations_). Desde então o termo DevOps tem sido utilizado em diversos outros contextos, até mesmo em nomes de profissão, como Engenheiro DevOps.
+Pessoas como Patrick Dubois, Gene Kim e John Willis começaram a organizar conversas para unir as duas comunidades, por meio de um evento intitulado DevOpsDays. A partir de um tweet feito por Debois, em 2009, surgiu a hashtag #devops; união das palavras Desenvolvimento _(Development)_ e Operações _(Operations)_. Desde então o termo DevOps tem sido utilizado em diversos outros contextos, até mesmo em nomes de profissão, como Engenheiro DevOps.
 
 Associar DevOps à infraestrutura é inevitável, já que hoje quem é contratado com esse nome no cargo tem, entre outras responsabilidades, a principal de automatizar tarefas de implantação e operação de sistemas. Pode-se entender que DevOps seja a resposta dos times de Operação de TI ao modelo ágil de desenvolvimento, como o Scrum.
 
-As iniciativas DevOps nas empresas podem existir por meio de direcionamentos executivos (_top down_) e/ou pelos times que conduzem a operação da empresa (_bottom up_). O ideal para uma melhor adoção é a combinação disso.
+As iniciativas DevOps nas empresas podem existir por meio de direcionamentos executivos _(top down)_ e/ou pelos times que conduzem a operação da empresa _(bottom up)_. O ideal para uma melhor adoção é a combinação disso.
 
 ## Os princípios do DevOps
 Diferente do Ágil, DevOps não possui um manifesto. Isso deixa espaço para diversos entendimentos do que de fato ele se trata. Porém as comunidades que debatem o tema, defendem um conjunto de princípios que devem reger o DevOps. Estes princípios são identificados por acrônimos como CAMS, CALMS e ICE.
