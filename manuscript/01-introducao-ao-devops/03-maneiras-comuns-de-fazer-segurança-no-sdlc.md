@@ -1,10 +1,7 @@
-# Introdução ao DevOps
-
-## Maneiras comuns de fazer segurança no SDLC
+# Maneiras comuns de fazer segurança no SDLC
 Neste capítulo iremos conhecer as formas tradicionais de adotar segurança no ciclo de desenvolvimento.
 
-### Abordagens de Teste de Segurança
-
+## Abordagens de Teste de Segurança
 Há na indústria de segurança de software diversos modelos de teste:
 
 **EHT _(Ethical Hacking Test)_ ou _pentest_ (teste de penetração)** é uma abordagem de teste de segurança onde um especialista por meio de técnicas manuais e com apoio de ferramentas, tenta subverter o funcionamento de um software a fim de encontrar vulnerabilidades. O profissional que realiza essa atividade é conhecido como pentester.
@@ -17,8 +14,7 @@ Há na indústria de segurança de software diversos modelos de teste:
 
 **RASP _(Runtime Application Self-Protection)_** é um mecanismo que adiciona a aplicação formas de autodefesa contra ações de engenharia reversa e subversão de funcionamento.
 
-### Modelos de processo de desenvolvimento seguro de software
-
+## Modelos de processo de desenvolvimento seguro de software
 Segurança em software não é apenas realizar testes para saber se ele está vulnerável. Para evitar que essas falhas se materializem, há diversos modelos de implementação de processo de desenvolvimento seguro, onde desde a concepção pensa-se em segurança, o chamado sSDLC (Security Software Development Lifecycle). Tradicionalmente as empresas que utilizam algum processo de desenvolvimento seguro seguem algum dos modelos abaixo:
 
 **OpenSAMM _(Software Assurance Maturity Model)_** criado e mantido de forma aberta pelo OWASP, é um modelo de avaliação de maturidade, que auxilia a definir e priorizar quais pontos no processo de desenvolvimento seguro devem ser seguidos pela empresa que o adota.

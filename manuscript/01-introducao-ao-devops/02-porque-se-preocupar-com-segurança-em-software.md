@@ -1,9 +1,7 @@
-# Introdução ao DevOps
-
-## Porquê se preocupar com segurança em software
+# Porquê se preocupar com segurança em software
 Neste capítulo vamos compreender quais as razões para importância de segurança em sistemas.
 
-### Riscos que temos que nos preocupar
+## Riscos que temos que nos preocupar
 Pode parecer evidente termos preocupação com a segurança em software, porém essa necessidade vai um pouco mais além do óbvio.
 
 **Perda Financeira Indireta** acontece de maneira mais comum pelos ataques que prejudicam a marca e reputação da empresa. Exemplos disso são vazamento de dados, onde uma pessoa mal-intencionada pode exigir dinheiro (extorsão) em troca de não divulgar as informações. Além disso, ele pode obter dados para uma engenharia social, golpe onde o atacante passa-se por uma pessoa que não é, ganhando a confiança da vítima, a fim de levar algum tipo de vantagem financeira ou não. 
