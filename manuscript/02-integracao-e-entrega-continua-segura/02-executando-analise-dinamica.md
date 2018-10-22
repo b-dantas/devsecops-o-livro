@@ -36,7 +36,7 @@ Os pesquisadores de segurança periodicamente identificam vulnerabilidades em bi
 
 As vulnerabilidades que as bibliotecas podem conter colocam em risco a segurança da aplicação como um todo. Por isso é importante adotar meios de verificar se as versões das bibliotecas utilizadas possuem vulnerabilidades conhecidas. Uma atenção especial deve ser data às bibliotecas de segurança, que fornecem controles como criptografia, validação de entrada, registro em log, controle de acesso e outras funções críticas de segurança.
 
-O **Dependency Checker** da OWASP é uma das soluções que permite verificar se sua aplicação usa bibliotecas em versões que possuem vulnerabilidades conhecidas. Atualmente são suportadas checagens em softwares escritos em Java e .NET, além de suporte experimental a Ruby, Node.js, Python e parcial para C/C++. Um plugin nativo para o Jenkins é disponibilizado para integração.
+O **Dependency-Check** da OWASP é uma das soluções que permite verificar se sua aplicação usa bibliotecas em versões que possuem vulnerabilidades conhecidas. Atualmente são suportadas checagens em softwares escritos em Java e .NET, além de suporte experimental a Ruby, Node.js, Python e parcial para C/C++. Um plugin nativo para o Jenkins é disponibilizado para integração.
 
 É indicado também a procura por uma ferramenta que identifique vulnerabilidades em bibliotecas na linguagem que sua aplicação utiliza, já que dessa forma a verificação tende a ser mais rápida e os resultados mais assertivos. Exemplos de soluções são Node Security Platform (NSP, hoje integrado ao gerenciador de dependências npm) e Retire.js, exclusivos para Node.js.
 	
