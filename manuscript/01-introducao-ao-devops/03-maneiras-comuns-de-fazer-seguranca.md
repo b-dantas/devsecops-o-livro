@@ -17,12 +17,12 @@ Há na indústria de segurança de software diversos modelos de teste:
 ## Modelos de processo de desenvolvimento seguro de software
 Segurança em software não é apenas realizar testes para saber se ele está vulnerável. Para evitar que essas falhas se materializem, há diversos modelos de implementação de processo de desenvolvimento seguro, onde desde a concepção pensa-se em segurança, o chamado sSDLC (Security Software Development Lifecycle). Tradicionalmente as empresas que utilizam algum processo de desenvolvimento seguro seguem algum dos modelos abaixo:
 
-**OpenSAMM _(Software Assurance Maturity Model)_** criado e mantido de forma aberta pelo OWASP, é um modelo de avaliação de maturidade, que auxilia a definir e priorizar quais pontos no processo de desenvolvimento seguro devem ser seguidos pela empresa que o adota.
+**[OpenSAMM](https://www.opensamm.org/) _(Software Assurance Maturity Model)_** criado e mantido de forma aberta pelo OWASP, é um modelo de avaliação de maturidade, que auxilia a definir e priorizar quais pontos no processo de desenvolvimento seguro devem ser seguidos pela empresa que o adota.
 
-**BSIMM _(Building Security in Maturity Model)_** criado e mantido por diversas empresas da indústria de software, também é um modelo de avaliação de maturidade, porém baseado na experiência de diversas companhias.
+**[BSIMM](https://www.bsimm.com/) _(Building Security in Maturity Model)_** criado e mantido por diversas empresas da indústria de software, também é um modelo de avaliação de maturidade, porém baseado na experiência de diversas companhias.
 
-**Microsoft SDL _(Security Development Lifecycle)_** é o modelo de desenvolvimento seguro adotado internamente pela Microsoft. É disponibilizado ao púbico para quem desejar segui-lo. Também existe uma versão voltada para práticas ágeis (SDL for agile). 
+**[Microsoft SDL](https://www.microsoft.com/en-us/sdl) _(Security Development Lifecycle)_** é o modelo de desenvolvimento seguro adotado internamente pela Microsoft. É disponibilizado ao púbico para quem desejar segui-lo. Também existe uma versão voltada para práticas ágeis ([SDL for agile](https://www.microsoft.com/en-us/SDL/Discover/sdlagile.aspx)). 
 
-**ISO/IEC 27034** é uma norma que objetiva conduzir as empresas a adicionarem segurança dentro do processo de desenvolvimento de software. 
+**[ISO/IEC 27034](https://www.iso.org/standard/66229.html)** é uma norma que objetiva conduzir as empresas a adicionarem segurança dentro do processo de desenvolvimento de software. 
 
-A iniciativa **SAFECode** e a **ISO/IEC 15408** podem auxiliar na adoção de um modelo de desenvolvimento seguro.
+A iniciativa **[SAFECode](https://safecode.org/)** e a **[ISO/IEC 15408](https://www.iso.org/standard/50341.html)** podem auxiliar na adoção de um modelo de desenvolvimento seguro.
