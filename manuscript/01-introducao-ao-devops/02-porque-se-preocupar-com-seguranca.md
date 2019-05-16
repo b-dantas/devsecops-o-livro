@@ -8,6 +8,6 @@ Pode parecer evidente termos preocupação com a segurança em software, porém 
 
 **Perda Financeira Direta** ocorre por meio ações onde o atacante beneficia-se diretamente dos recursos que consegue se apropriar. Exemplos disso seriam: alguém ter sucesso em fazer pedidos sem pagar em um e-commerce, ou transferir dinheiro de uma conta fraudada em um Internet Banking.
 
-**Normas e Regulações** servem para evitar que situações como as acima aconteçam, dependendo do segmento que o software sirva, existem algumas entidades que controlam o nível de segurança que essas aplicações devem ter. A norma mais conhecida que trata desse tema é o PCI _(Payment Card Industry)_, voltada para área de cartões de crédito. 
+**Normas e Regulações** servem para evitar que situações como as acima aconteçam, dependendo do segmento que o software sirva, existem algumas entidades que controlam o nível de segurança que essas aplicações devem ter. A norma mais conhecida que trata desse tema é o PCI _(Payment Card Industry)_, voltada para área de cartões de crédito. Nos últimos anos foram aprovadas leis como GDPR _(General Data pPotection Regulation)_ que trata da privacidade de dados que as aplicações deve lidar. 
 
 Na eventualidade da empresa ser obrigada a cumprir alguma norma que envolva segurança em software, a não aderência pode resultar em algum tipo de sanção ou multa. Além do segmento financeiro, as áreas de seguros, saúde e energia podem exigir que se tenha uma preocupação especial com segurança.
